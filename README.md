@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arush Mangalam Bajpai</h1>
-<h3 align="center">A passionate Electrical Enthusiast from BITS Pilani</h3>
+<h3 align="center">A passionate Electrical and Electronics Enthusiast from BITS Pilani</h3>
 
 - 🌱 I’m currently learning **Programming of Embedded Systems, PCB Designing and Power Simulations**
 
